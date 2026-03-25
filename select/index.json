@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Side",
+  "base_artist": "Travis",
+  "createdAt": "2026-03-25T04:17:25.201370Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Other Side (From \"Trolls World Tour\") [Oliver Heldens Remix]",
+      "artist": "SZA feat. Justin Timberlake & Oliver Heldens",
+      "has_synced": true,
+      "path": "select/01_The_Other_Side_(From__Trolls_World_Tour_)_[Oliver_Heldens_Remix]_SZA_feat._Justin_Timberlake_&_Oliver_Heldens.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Down Side of Me (Live)",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/02_Down_Side_of_Me_(Live)_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blue Side of Town",
+      "artist": "Patty Loveless",
+      "has_synced": false,
+      "path": "select/03_Blue_Side_of_Town_Patty_Loveless.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blue Side of Lonesome",
+      "artist": "Jim Reeves",
+      "has_synced": true,
+      "path": "select/04_Blue_Side_of_Lonesome_Jim_Reeves.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fighting Side of Me",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/05_Fighting_Side_of_Me_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Fightin' Side of Me (Live)",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/06_The_Fightin'_Side_of_Me_(Live)_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fightin Side of Me (Live)",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/07_Fightin_Side_of_Me_(Live)_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Honky Tonk Side of Town",
+      "artist": "Randy Travis",
+      "has_synced": false,
+      "path": "select/08_Honky_Tonk_Side_of_Town_Randy_Travis.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Honky Tonk Side of Town (Album Version)",
+      "artist": "Randy Travis",
+      "has_synced": false,
+      "path": "select/09_Honky_Tonk_Side_of_Town_(Album_Version)_Randy_Travis.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Other Side",
+      "artist": "Wynonna feat. Waxahatchee",
+      "has_synced": true,
+      "path": "select/10_Other_Side_Wynonna_feat._Waxahatchee.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Other Side",
+      "artist": "Wynonna",
+      "has_synced": true,
+      "path": "select/11_Other_Side_Wynonna.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Side Saddle (feat. Gillian Welch)",
+      "artist": "Molly Tuttle",
+      "has_synced": false,
+      "path": "select/12_Side_Saddle_(feat._Gillian_Welch)_Molly_Tuttle.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Some Old Side Road (Remastered 2002)",
+      "artist": "Keith Whitley",
+      "has_synced": false,
+      "path": "select/13_Some_Old_Side_Road_(Remastered_2002)_Keith_Whitley.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Some Old Side Road (Remastered Single Version) (Single (2002 remaster))",
+      "artist": "Keith Whitley",
+      "has_synced": false,
+      "path": "select/14_Some_Old_Side_Road_(Remastered_Single_Version)_(Single_(2002_remaster))_Keith_Whitley.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Fightin' Side Of Me",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/15_The_Fightin'_Side_Of_Me_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Fightin' Side Of Me",
+      "artist": "Merle Haggard & The Strangers",
+      "has_synced": true,
+      "path": "select/16_The_Fightin'_Side_Of_Me_Merle_Haggard_&_The_Strangers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Side",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/pl_01_Side_Travis.txt"
+    }
+  ]
+}
